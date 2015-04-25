@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+a{
+	FONT-WEIGHT: bold;
+	color: black;
+	
+}
+body {
+	color: #000000;
+	background-color: #E0E0E0;
+	font-family: Times New Roman;
+}
+
+#teto {
+	margin: 0px;
+	padding: 0px;
+	max-height: 200px;
+	border-bottom:solid 5px black;
+}
+
+#bal {
+	height: 800px;
+	width: 100px;
+	float: left;
+	padding: 5px;
+	border-right: solid 5px black;
+}
+#menu{
+	border-bottom:solid 5px black;
+	padding: 0px;
+	width:100%;
+}
